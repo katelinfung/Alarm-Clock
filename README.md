@@ -2,7 +2,7 @@
 
 <img width="632" alt="image" src="https://github.com/katelinfung/Alarm-Clock/assets/72584070/88d2d609-571d-4ee2-b4a0-734f162771f0">
 
-; January 22 2020
+; January 22 2021
 ; Katelin Fung
 ; 
 ; Elec 291/292 
